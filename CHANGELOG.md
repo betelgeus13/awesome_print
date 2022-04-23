@@ -1,4 +1,4 @@
-## master (unreleased)
+## 1.9.3
 - Remove usage of `marshal_dump` since this was removed from recent Rails versions [@edipofederle]
 
 
